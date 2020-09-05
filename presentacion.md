@@ -1,0 +1,3 @@
+# Presentacion Francisco Beltrami Martínez
+
+Mi nombre es Francisco Beltrami Martínez, soy estudiante de Ing en informática en la Universidad de Valparaíso, tengo 24 y mi expectativa sobre los ramos de Desarrollo Web y Arquitectura de Software es interiorizarme un poco en las herramientas utilizadas en el mundo laboral. En mi tiempo libre me dedico a la música, tocando guitarra, piano y bajo; o a la jardinería.
